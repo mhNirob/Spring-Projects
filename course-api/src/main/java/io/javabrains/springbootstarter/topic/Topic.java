@@ -1,7 +1,6 @@
 package io.javabrains.springbootstarter.topic;
 
 public class Topic {
-	
 	private String id;
 	private String name;
 	private String description;
@@ -35,5 +34,4 @@ public class Topic {
 	public void setDescription(String description) {
 		this.description = description;
 	}
-	
 }
